@@ -1,0 +1,683 @@
+{ messageUser: 'No',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Bye',
+  intent: 'farewells',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Mortician gift',
+  intent: 'find.a.gift',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Stop',
+  intent: 'farewells',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Afreeift card',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Fuck this',
+  intent: 'profanity.list',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Gold detector',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Are you a recording',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Contact Verizon for what',
+  intent: 'contact.verizon',
+  intentDetectionConfidence: 0.7400000095367432 }
+{ messageUser: 'Freezing',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Blessed',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Haiii',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Are you customer service provider',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Bye bye',
+  intent: 'farewells',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Fuck fuck fuck fuck',
+  intent: 'profanity.list',
+  intentDetectionConfidence: 0.9200000166893005 }
+{ messageUser: 'Fuck you iphone sucks',
+  intent: 'profanity.list',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Yes',
+  intent: 'Default Welcome Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Girl',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Aree gift card',
+  intent: 'find.a.gift',
+  intentDetectionConfidence: 0.7099999785423279 }
+{ messageUser: 'Ok',
+  intent: 'smalltalk-how.is.it.going',
+  intentDetectionConfidence: 0.7099999785423279 }
+{ messageUser: 'hi hi',
+  intent: 'Default Welcome Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Iphone 6',
+  intent: 'device.unrecognized',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Hey',
+  intent: 'Default Welcome Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Later',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Cancel',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Is this free ?',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Describe what',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Byeeee',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'I mean that’s what she sent me!',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'describe in 5',
+  intent: 'try.again',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'How tf is fucking rat sad',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Christmas',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'How much did it cost',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'me',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'I Luv New Orleans Saint',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'I\'m shopping for myself',
+  intent: 'holiday.fun-shopping',
+  intentDetectionConfidence: 0.699999988079071 }
+{ messageUser: 'Love, car, house, money happiness',
+  intent: 'smalltalk-brand.love',
+  intentDetectionConfidence: 0.8600000143051147 }
+{ messageUser: 'How much',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Ivan',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'I need help',
+  intent: 'help',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Fuck off',
+  intent: 'profanity.list',
+  intentDetectionConfidence: 0.9200000166893005 }
+{ messageUser: 'My grandkids',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser:
+   'Husband  has everything  likes to golf  likes sweets. Size large',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Nothing',
+  intent: 'Default Welcome Intent',
+  intentDetectionConfidence: 0.8899999856948853 }
+{ messageUser: 'En Español por favor',
+  intent: 'smalltalk-which.languages.do.you.speak',
+  intentDetectionConfidence: 0.6800000071525574 }
+{ messageUser:
+   'I am trying to get 9 iPhones 128gb with 1gb and how much will it cost me?',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Can I have an example',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser:
+   'How do emojis work in here and use on a regular phone message?',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Android with unlimited data',
+  intent: 'show.android',
+  intentDetectionConfidence: 0.7300000190734863 }
+{ messageUser: 'Mom',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: '#Describedin5',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'I can\'t think of no 5 emojis',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'My bae Dante',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser:
+   'Kalon Jasmine Patterson wedding fun time man woman love you',
+  intent: 'smalltalk-brand.love',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'I\'m shopping for my sister',
+  intent: 'holiday.fun-shopping',
+  intentDetectionConfidence: 0.6000000238418579 }
+{ messageUser: 'I work for another carrier so no.',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Chat with a customer service provider',
+  intent: 'contact.verizon',
+  intentDetectionConfidence: 0.7599999904632568 }
+{ messageUser: 'Give me drugs',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'I ain’t even got them myself',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'How',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Does it cost anything',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'I am not buying',
+  intent: 'smalltalk-i.am.not.ok',
+  intentDetectionConfidence: 0.6499999761581421 }
+{ messageUser: 'Beauty home decor cooking living mother and grandmother',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: '5 emojis',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Información',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Have me agree goofy card',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Can i get a iphone',
+  intent: 'show.brand.x',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Kalon Jasmine Patterson sohappy goodyday fun',
+  intent: 'easter.eggs-happy.holidays',
+  intentDetectionConfidence: 0.3449999988079071 }
+{ messageUser: 'I wanted to see about getting a new phone',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Mama',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'I don’t like that',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Huh',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'fuck you',
+  intent: 'profanity.list',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Can get back with later ok',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Dnt understand',
+  intent: 'help',
+  intentDetectionConfidence: 0.6800000071525574 }
+{ messageUser: 'Get me some help',
+  intent: 'help',
+  intentDetectionConfidence: 0.6600000262260437 }
+{ messageUser: 'How do i do this?',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'My children',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'I bet it was',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Computer',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Just forget it',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'I’m broke',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Thank you',
+  intent: 'smalltalk-thank.you',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'In 5',
+  intent: 'Default Welcome Intent',
+  intentDetectionConfidence: 0.8899999856948853 }
+{ messageUser: 'Hi',
+  intent: 'Default Welcome Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'A gift for the girl I like',
+  intent: 'find.a.gift',
+  intentDetectionConfidence: 0.9300000071525574 }
+{ messageUser: 'My dude',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'For my. Husband',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Electric blanket',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'My grandson age 15',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Kalon Jasmine Patterson😀',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'I didnt want anything you suggested',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Mf didnt mean to my hand hit the post',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'DONT mail me again!',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Let\'s get started',
+  intent: 'Default Welcome Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Do NOT mail me again',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Lemme lone.',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'But I hate her',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Happy love special adore married',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Female infant',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser:
+   'Listen you keep repeating the same thing so don\'t know what your talking about have no clue',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'I told you would like to speak with a representative',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Football',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Macy footwear',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: '8 mos old grandson',
+  intent: 'easter.eggs-how.old.are.you',
+  intentDetectionConfidence: 0.6899999976158142 }
+{ messageUser: 'Girlfriend',
+  intent: 'easter.eggs-be.my.friend',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Happy',
+  intent: 'easter.eggs-happy.holidays',
+  intentDetectionConfidence: 0.8899999856948853 }
+{ messageUser: '9 and 4 year old Grandsons',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser:
+   'Five emojis that best suit me are the smiley ones and the laughing ones',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Guns cars YouTube gaming hunting',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'I was looking for me a free gift card',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Go away',
+  intent: 'Default Welcome Intent',
+  intentDetectionConfidence: 0.6100000143051147 }
+{ messageUser: 'I believe I asked for drugs',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'F ree',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'He is a dj',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'I don\'t know, you tell me',
+  intent: 'help',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Guess I don’t know how to do this. I am his grandmother',
+  intent: 'help',
+  intentDetectionConfidence: 0.6100000143051147 }
+{ messageUser: '5 emojis is football Dallas Cowboys',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Heavy weight tall',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Ccc I👍🏼👍🏼',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'I want you to bbn help me or s customer service provider',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'I no have loved one',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser:
+   'Is that all you keep saying what is it I like to do explain',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Give me a gift now or discount i buy',
+  intent: 'find.a.gift',
+  intentDetectionConfidence: 0.7400000095367432 }
+{ messageUser: 'I want 2 iphone xs max',
+  intent: 'show.brand.x',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'For me',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'hello there',
+  intent: 'Default Welcome Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'I don’t shop',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser:
+   'I would love to have a new phone but I can\'t afford to I\'m on a fixed income and I can\'t do nothing for myself for Christmas I\'m not even getting a gift so I don\'t know somebody needs to be nice to me and bless me',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'How do I shop with emojis?',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser:
+   'I\'m trying to find out what is this about a game or something',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: '28 yea r old son wants I phone 10 max any specials',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'its not that crucial or serious ok stop im done',
+  intent: 'farewells',
+  intentDetectionConfidence: 0.6200000047683716 }
+{ messageUser: 'How do I describe?',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'I\'m looking for ear pods',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'I want to stick my penis in your anus',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Lovely and Funny',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser:
+   'I am trying to order 9 phones the iPhone 128gb with 1gb how much are they going to be?',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser:
+   'Lv hockey is a big fan of San Jose sharks lvs anmials lvs dirt bike riding and music',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser:
+   'I would like me a new phone but I don\'t have the money to buy it',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser:
+   'I want a new phone with y\'all I have Boost Mobile but I would love to have a new phone with you',
+  intent: 'contact.verizon',
+  intentDetectionConfidence: 0.7200000286102295 }
+{ messageUser:
+   'I dont have the money to shop with i have to great grads that tive with cant do any thing for them an nothing for my other grands. Not complaning',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser:
+   'Man. My dick fell off last Christmas. I asked Santa for a new one. Better hope it happens or else ima go to the South Pole and bring my lazer',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Shop',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Turntables. Lights.',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Nooo',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'What is this',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser:
+   'Sparkly enthusiastic Godless precious fun obtaining lovable loving',
+  intent: 'smalltalk-brand.love',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'No i didn\'t want that',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'That\'s homophobic',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'new emoji’s',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Never mind',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'No ty',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Myself',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'No one',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Not even close!',
+  intent: 'smalltalk-i.am.not.ok',
+  intentDetectionConfidence: 0.7099999785423279 }
+{ messageUser: 'Verizon’Emoji chopping',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Thankful',
+  intent: 'smalltalk-thank.you',
+  intentDetectionConfidence: 0.7099999785423279 }
+{ messageUser: 'This sucks',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Wtf',
+  intent: 'profanity.list',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Smd',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Sweet four year old girl',
+  intent: 'easter.eggs-how.old.are.you',
+  intentDetectionConfidence: 0.6800000071525574 }
+{ messageUser: 'No it’s ok. Thanks!',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Welcome',
+  intent: 'smalltalk-you.are.welcome',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'That\'s ok',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Not right now thank you tho',
+  intent: 'smalltalk-thank.you',
+  intentDetectionConfidence: 0.6399999856948853 }
+{ messageUser: 'value',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Unscribe',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'You too!',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'What is the price',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Speak with someone maybe they can help me',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'New cell phone',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Nice but hard to shop for',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'To left alone',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Yaaassss',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Who am I talking to',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'you are so cool',
+  intent: 'smalltalk-brand.love',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Nvm',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'No thanks',
+  intent: 'smalltalk-thank.you',
+  intentDetectionConfidence: 0.699999988079071 }
+{ messageUser: 'Okay how',
+  intent: 'smalltalk-how.is.it.going',
+  intentDetectionConfidence: 0.6299999952316284 }
+{ messageUser: 'That’s cheating',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Nope never mind',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'nothing stop',
+  intent: 'farewells',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'What’s your favorite color',
+  intent: 'smalltalk-favourite.color',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Where are they at??',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Unsubscribe me',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'P',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'What are you a robot',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Woman gay',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Your welcome',
+  intent: 'smalltalk-you.are.welcome',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'That was complete horse shit.',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'New phone for husband with a great deal.   Lol',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'My wife',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Zach etzin',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'No thanks. Have a good night lmao',
+  intent: 'smalltalk-thank.you',
+  intentDetectionConfidence: 0.6200000047683716 }
+{ messageUser: 'Ok later',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser:
+   'What happened no one responded back is this some kind of game',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Sure',
+  intent: 'smalltalk-you.are.welcome',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'They don\'t know about no emojis bcz there not on fb',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'My husband who is a steelers fan',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'No I am not buying',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'they arent sad at all, none of them',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'What are you supposed to do',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'My mom',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'So cool',
+  intent: 'so.cool',
+  intentDetectionConfidence: 0.75 }
+{ messageUser: 'thanks',
+  intent: 'smalltalk-thank.you',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'What do you mean what would I like to do explain',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Sorry hit the button by accident',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Yes need help',
+  intent: 'help',
+  intentDetectionConfidence: 0.8665100932121277 }
+{ messageUser: 'What are pop sockets?',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'No. I’d rather order my shit off amazon you dick weed',
+  intent: 'profanity.list',
+  intentDetectionConfidence: 0.7900000214576721 }
+{ messageUser: 9,
+  intent: 'Default Welcome Intent',
+  intentDetectionConfidence: 0.8899999856948853 }
+{ messageUser: 'No plz don’t mail me',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Yes how do I',
+  intent: 'Default Welcome Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Nothing to shop with',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Tf I look like buying an I pad or an iPhone X',
+  intent: 'show.brand.x',
+  intentDetectionConfidence: 0.6899999976158142 }
+{ messageUser:
+   'She is Very beautiful i would like to get her something do she can use at work without actually pulling out her phone',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'Yeah he wouldn\'t like any of those.... At all.',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser:
+   'Please stop mlm playing games with  me bcz your getting annoying',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser:
+   'See if you get a discount if you would add a third phone to your new account because I already bought two phones making payments but I have to pay the full price so do you get discounts on the third phone',
+  intent: 'Default Fallback Intent',
+  intentDetectionConfidence: 1 }
+{ messageUser: 'This is a scam to promote apple produts',
+  intent: 'show.brand.x',
+  intentDetectionConfidence: 0.6700000166893005 }

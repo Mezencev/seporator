@@ -1,0 +1,3252 @@
+[
+  {
+    "Number": 14,
+    "Unicode": "U+1F970",
+    "Browser Image": "🥰",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ smiling face with 3 hearts",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 53,
+    "Unicode": "U+1F975",
+    "Browser Image": "🥵",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ hot face",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 54,
+    "Unicode": "U+1F976",
+    "Browser Image": "🥶",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ cold face",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 55,
+    "Unicode": "U+1F974",
+    "Browser Image": "🥴",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ woozy face",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 59,
+    "Unicode": "U+1F973",
+    "Browser Image": "🥳",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ partying face",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": 71,
+    "Unicode": "U+1F97A",
+    "Browser Image": "🥺",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ pleading face",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 180,
+    "Unicode": "U+1F9B5",
+    "Browser Image": "🦵",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ leg",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 181,
+    "Unicode": "U+1F9B6",
+    "Browser Image": "🦶",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ foot",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 185,
+    "Unicode": "U+1F9B7",
+    "Browser Image": "🦷",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ tooth",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 186,
+    "Unicode": "U+1F9B4",
+    "Browser Image": "🦴",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ bone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 199,
+    "Unicode": "U+1F468 U+200D U+1F9B0",
+    "Browser Image": "👨‍🦰",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ man: red hair",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 200,
+    "Unicode": "U+1F468 U+200D U+1F9B1",
+    "Browser Image": "👨‍🦱",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ man: curly hair",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 201,
+    "Unicode": "U+1F468 U+200D U+1F9B3",
+    "Browser Image": "👨‍🦳",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ man: white hair",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 202,
+    "Unicode": "U+1F468 U+200D U+1F9B2",
+    "Browser Image": "👨‍🦲",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ man: bald",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 206,
+    "Unicode": "U+1F469 U+200D U+1F9B0",
+    "Browser Image": "👩‍🦰",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ woman: red hair",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 207,
+    "Unicode": "U+1F469 U+200D U+1F9B1",
+    "Browser Image": "👩‍🦱",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ woman: curly hair",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 208,
+    "Unicode": "U+1F469 U+200D U+1F9B3",
+    "Browser Image": "👩‍🦳",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ woman: white hair",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 209,
+    "Unicode": "U+1F469 U+200D U+1F9B2",
+    "Browser Image": "👩‍🦲",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ woman: bald",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 298,
+    "Unicode": "U+1F9B8",
+    "Browser Image": "🦸",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ superhero",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": 299,
+    "Unicode": "U+1F9B8 U+200D U+2642 U+FE0F",
+    "Browser Image": "🦸‍♂️",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ man superhero",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": "",
+    "Unicode": "1F9B8 200D 2642",
+    "Browser Image": "🦸‍♂️",
+    "Apple \n(iOS 12)": "",
+    "Google Pixel\n(Android 9.0 OS)": "",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "",
+    "CLDR Short Name": "⊛ man superhero",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 300,
+    "Unicode": "U+1F9B8 U+200D U+2640 U+FE0F",
+    "Browser Image": "🦸‍♀️",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ woman superhero",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": "",
+    "Unicode": "1F9B8 200D 2640",
+    "Browser Image": "🦸‍♀️",
+    "Apple \n(iOS 12)": "",
+    "Google Pixel\n(Android 9.0 OS)": "",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "",
+    "CLDR Short Name": "⊛ woman superhero",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 301,
+    "Unicode": "U+1F9B9",
+    "Browser Image": "🦹",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ supervillain",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": 302,
+    "Unicode": "U+1F9B9 U+200D U+2642 U+FE0F",
+    "Browser Image": "🦹‍♂",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ man supervillain",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": "",
+    "Unicode": "1F9B9 200D 2642",
+    "Browser Image": "🦹‍♂",
+    "Apple \n(iOS 12)": "",
+    "Google Pixel\n(Android 9.0 OS)": "",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "",
+    "CLDR Short Name": "⊛ man supervillain",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 303,
+    "Unicode": "U+1F9B9 U+200D U+2640 U+FE0F",
+    "Browser Image": "🦹‍♀️",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ woman supervillain",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": "",
+    "Unicode": "1F9B9 200D 2640",
+    "Browser Image": "🦹‍♀️",
+    "Apple \n(iOS 12)": "",
+    "Google Pixel\n(Android 9.0 OS)": "",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "",
+    "CLDR Short Name": "⊛ woman supervillain",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 438,
+    "Unicode": "U+1F9B0",
+    "Browser Image": "🦰",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ red hair",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 439,
+    "Unicode": "U+1F9B1",
+    "Browser Image": "🦱",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ curly hair",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 440,
+    "Unicode": "U+1F9B3",
+    "Browser Image": "🦳",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ white hair",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 441,
+    "Unicode": "U+1F9B2",
+    "Browser Image": "🦲",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ bald",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 450,
+    "Unicode": "U+1F99D",
+    "Browser Image": "🦝",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ raccoon",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 475,
+    "Unicode": "U+1F999",
+    "Browser Image": "🦙",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ llama",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 479,
+    "Unicode": "U+1F99B",
+    "Browser Image": "🦛",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ hippopotamus",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 492,
+    "Unicode": "U+1F998",
+    "Browser Image": "🦘",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ kangaroo",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 493,
+    "Unicode": "U+1F9A1",
+    "Browser Image": "🦡",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ badger",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 506,
+    "Unicode": "U+1F9A2",
+    "Browser Image": "🦢",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ swan",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 508,
+    "Unicode": "U+1F99A",
+    "Browser Image": "🦚",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ peacock",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 509,
+    "Unicode": "U+1F99C",
+    "Browser Image": "🦜",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ parrot",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 538,
+    "Unicode": "U+1F99F",
+    "Browser Image": "🦟",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ mosquito",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 539,
+    "Unicode": "U+1F9A0",
+    "Browser Image": "🦠",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ microbe",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 569,
+    "Unicode": "U+1F96D",
+    "Browser Image": "🥭",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ mango",
+    "Emoji Category": "Fitness/Health"
+  },
+  {
+    "Number": 586,
+    "Unicode": "U+1F96C",
+    "Browser Image": "🥬",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ leafy green",
+    "Emoji Category": "Fitness/Health"
+  },
+  {
+    "Number": 595,
+    "Unicode": "U+1F96F",
+    "Browser Image": "🥯",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ bagel",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 617,
+    "Unicode": "U+1F9C2",
+    "Browser Image": "🧂",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ salt",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "U+1F9F6",
+    "Browser Image": "🧶",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ yarn",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 631,
+    "Unicode": "U+1F96E",
+    "Browser Image": "🥮",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ moon cake",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 637,
+    "Unicode": "U+1F99E",
+    "Browser Image": "🦞",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ lobster",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 647,
+    "Unicode": "U+1F9C1",
+    "Browser Image": "🧁",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ cupcake",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 680,
+    "Unicode": "U+1F9ED",
+    "Browser Image": "🧭",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ compass",
+    "Emoji Category": "Travel"
+  },
+  {
+    "Number": 693,
+    "Unicode": "U+1F9F1",
+    "Browser Image": "🧱",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ brick",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 769,
+    "Unicode": "U+1F6F9",
+    "Browser Image": "🛹",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ skateboard",
+    "Emoji Category": "Fitness/Health"
+  },
+  {
+    "Number": 801,
+    "Unicode": "U+1F9F3",
+    "Browser Image": "🧳",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ luggage",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 882,
+    "Unicode": "U+1F9E8",
+    "Browser Image": "🧨",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ firecracker",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 893,
+    "Unicode": "U+1F9E7",
+    "Browser Image": "🧧",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ red envelope",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 907,
+    "Unicode": "U+1F94E",
+    "Browser Image": "🥎",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ softball",
+    "Emoji Category": "Fitness/Health"
+  },
+  {
+    "Number": 913,
+    "Unicode": "U+1F94F",
+    "Browser Image": "🥏",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ flying disc",
+    "Emoji Category": "Fitness/Health"
+  },
+  {
+    "Number": 918,
+    "Unicode": "U+1F94D",
+    "Browser Image": "🥍",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ lacrosse",
+    "Emoji Category": "Fitness/Health"
+  },
+  {
+    "Number": 934,
+    "Unicode": "U+1F9FF",
+    "Browser Image": "🧿",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ nazar amulet",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 939,
+    "Unicode": "U+1F9E9",
+    "Browser Image": "🧩",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ jigsaw",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 940,
+    "Unicode": "U+1F9F8",
+    "Browser Image": "🧸",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ teddy bear",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 952,
+    "Unicode": "U+1F9F5",
+    "Browser Image": "🧵",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ thread",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 953,
+    "Unicode": "U+1F9F6",
+    "Browser Image": "🧶",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ yarn",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 956,
+    "Unicode": "U+1F97D",
+    "Browser Image": "🥽",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ goggles",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 957,
+    "Unicode": "U+1F97C",
+    "Browser Image": "🥼",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ lab coat",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 976,
+    "Unicode": "U+1F97E",
+    "Browser Image": "🥾",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ hiking boot",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 977,
+    "Unicode": "U+1F97F",
+    "Browser Image": "🥿",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ flat shoe",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 1033,
+    "Unicode": "U+1F9EE",
+    "Browser Image": "🧮",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ abacus",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 1073,
+    "Unicode": "U+1F9FE",
+    "Browser Image": "🧾",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ receipt",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 1142,
+    "Unicode": "U+1F9F0",
+    "Browser Image": "🧰",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ toolbox",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 1143,
+    "Unicode": "U+1F9F2",
+    "Browser Image": "🧲",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ magnet",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 1145,
+    "Unicode": "U+1F9EA",
+    "Browser Image": "🧪",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ test tube",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 1146,
+    "Unicode": "U+1F9EB",
+    "Browser Image": "🧫",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ petri dish",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 1147,
+    "Unicode": "U+1F9EC",
+    "Browser Image": "🧬",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ dna",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 1159,
+    "Unicode": "U+1F9F4",
+    "Browser Image": "🧴",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ lotion bottle",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 1160,
+    "Unicode": "U+1F9F7",
+    "Browser Image": "🧷",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ safety pin",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 1161,
+    "Unicode": "U+1F9F9",
+    "Browser Image": "🧹",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ broom",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 1162,
+    "Unicode": "U+1F9FA",
+    "Browser Image": "🧺",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ basket",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 1163,
+    "Unicode": "U+1F9FB",
+    "Browser Image": "🧻",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ roll of paper",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 1164,
+    "Unicode": "U+1F9FC",
+    "Browser Image": "🧼",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ soap",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 1165,
+    "Unicode": "U+1F9FD",
+    "Browser Image": "🧽",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ sponge",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 1166,
+    "Unicode": "U+1F9EF",
+    "Browser Image": "🧯",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ fire extinguisher",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 1271,
+    "Unicode": "U+267E",
+    "Browser Image": "♾",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ infinity",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "267E FE0F",
+    "Browser Image": "♾",
+    "Apple \n(iOS 12)": "",
+    "Google Pixel\n(Android 9.0 OS)": "",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "",
+    "CLDR Short Name": "",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 1383,
+    "Unicode": "U+1F3F4 U+200D U+2620 U+FE0F",
+    "Browser Image": "🏴‍☠️",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ pirate flag",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F3F4 200D 2620",
+    "Browser Image": "🏴‍☠️",
+    "Apple \n(iOS 12)": "",
+    "Google Pixel\n(Android 9.0 OS)": "",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "",
+    "CLDR Short Name": "",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 161,
+    "Unicode": "U+1F9B5 U+1F3FB",
+    "Browser Image": "🦵🏻",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ leg: light skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 162,
+    "Unicode": "U+1F9B5 U+1F3FC",
+    "Browser Image": "🦵🏼",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ leg: medium-light skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 163,
+    "Unicode": "U+1F9B5 U+1F3FD",
+    "Browser Image": "🦵🏽",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ leg: medium skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 164,
+    "Unicode": "U+1F9B5 U+1F3FE",
+    "Browser Image": "🦵🏾",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ leg: medium-dark skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 165,
+    "Unicode": "U+1F9B5 U+1F3FF",
+    "Browser Image": "🦵🏿",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ leg: dark skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 166,
+    "Unicode": "U+1F9B6 U+1F3FB",
+    "Browser Image": "🦶🏻",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ foot: light skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 167,
+    "Unicode": "U+1F9B6 U+1F3FC",
+    "Browser Image": "🦶🏼",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ foot: medium-light skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 168,
+    "Unicode": "U+1F9B6 U+1F3FD",
+    "Browser Image": "🦶🏽",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ foot: medium skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 169,
+    "Unicode": "U+1F9B6 U+1F3FE",
+    "Browser Image": "🦶🏾",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ foot: medium-dark skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 170,
+    "Unicode": "U+1F9B6 U+1F3FF",
+    "Browser Image": "🦶🏿",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ foot: dark skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 221,
+    "Unicode": "U+1F468 U+1F3FB U+200D U+1F9B0",
+    "Browser Image": "👨🏻‍🦰",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ man: light skin tone, red hair",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 222,
+    "Unicode": "U+1F468 U+1F3FC U+200D U+1F9B0",
+    "Browser Image": "👨🏼‍🦰",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ man: medium-light skin tone, red hair",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 223,
+    "Unicode": "U+1F468 U+1F3FD U+200D U+1F9B0",
+    "Browser Image": "👨🏽‍🦰",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ man: medium skin tone, red hair",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 224,
+    "Unicode": "U+1F468 U+1F3FE U+200D U+1F9B0",
+    "Browser Image": "👨🏾‍🦰",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ man: medium-dark skin tone, red hair",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 225,
+    "Unicode": "U+1F468 U+1F3FF U+200D U+1F9B0",
+    "Browser Image": "👨🏿‍🦰",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ man: dark skin tone, red hair",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 226,
+    "Unicode": "U+1F468 U+1F3FB U+200D U+1F9B1",
+    "Browser Image": "👨🏻‍🦱",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ man: light skin tone, curly hair",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 227,
+    "Unicode": "U+1F468 U+1F3FC U+200D U+1F9B1",
+    "Browser Image": "👨🏼‍🦱",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ man: medium-light skin tone, curly hair",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 228,
+    "Unicode": "U+1F468 U+1F3FD U+200D U+1F9B1",
+    "Browser Image": "👨🏽‍🦱",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ man: medium skin tone, curly hair",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 229,
+    "Unicode": "U+1F468 U+1F3FE U+200D U+1F9B1",
+    "Browser Image": "👨🏾‍🦱",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ man: medium-dark skin tone, curly hair",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 230,
+    "Unicode": "U+1F468 U+1F3FF U+200D U+1F9B1",
+    "Browser Image": "👨🏿‍🦱",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ man: dark skin tone, curly hair",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 231,
+    "Unicode": "U+1F468 U+1F3FB U+200D U+1F9B3",
+    "Browser Image": "👨🏻‍🦳",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ man: light skin tone, white hair",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 232,
+    "Unicode": "U+1F468 U+1F3FC U+200D U+1F9B3",
+    "Browser Image": "👨🏼‍🦳",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ man: medium-light skin tone, white hair",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 233,
+    "Unicode": "U+1F468 U+1F3FD U+200D U+1F9B3",
+    "Browser Image": "👨🏽‍🦳",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ man: medium skin tone, white hair",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 234,
+    "Unicode": "U+1F468 U+1F3FE U+200D U+1F9B3",
+    "Browser Image": "👨🏾‍🦳",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ man: medium-dark skin tone, white hair",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 235,
+    "Unicode": "U+1F468 U+1F3FF U+200D U+1F9B3",
+    "Browser Image": "👨🏿‍🦳",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ man: dark skin tone, white hair",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 236,
+    "Unicode": "U+1F468 U+1F3FB U+200D U+1F9B2",
+    "Browser Image": "👨🏻‍🦲",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ man: light skin tone, bald",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 237,
+    "Unicode": "U+1F468 U+1F3FC U+200D U+1F9B2",
+    "Browser Image": "👨🏼‍🦲",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ man: medium-light skin tone, bald",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 238,
+    "Unicode": "U+1F468 U+1F3FD U+200D U+1F9B2",
+    "Browser Image": "👨🏽‍🦲",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ man: medium skin tone, bald",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 239,
+    "Unicode": "U+1F468 U+1F3FE U+200D U+1F9B2",
+    "Browser Image": "👨🏾‍🦲",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ man: medium-dark skin tone, bald",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 240,
+    "Unicode": "U+1F468 U+1F3FF U+200D U+1F9B2",
+    "Browser Image": "👨🏿‍🦲",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ man: dark skin tone, bald",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 256,
+    "Unicode": "U+1F469 U+1F3FB U+200D U+1F9B0",
+    "Browser Image": "👩🏻‍🦰",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ woman: light skin tone, red hair",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 257,
+    "Unicode": "U+1F469 U+1F3FC U+200D U+1F9B0",
+    "Browser Image": "👩🏼‍🦰",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ woman: medium-light skin tone, red hair",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 258,
+    "Unicode": "U+1F469 U+1F3FD U+200D U+1F9B0",
+    "Browser Image": "👩🏽‍🦰",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ woman: medium skin tone, red hair",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 259,
+    "Unicode": "U+1F469 U+1F3FE U+200D U+1F9B0",
+    "Browser Image": "👩🏾‍🦰",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ woman: medium-dark skin tone, red hair",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 260,
+    "Unicode": "U+1F469 U+1F3FF U+200D U+1F9B0",
+    "Browser Image": "👩🏿‍🦰",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ woman: dark skin tone, red hair",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 261,
+    "Unicode": "U+1F469 U+1F3FB U+200D U+1F9B1",
+    "Browser Image": "👩🏻‍🦱",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ woman: light skin tone, curly hair",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 262,
+    "Unicode": "U+1F469 U+1F3FC U+200D U+1F9B1",
+    "Browser Image": "👩🏼‍🦱",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ woman: medium-light skin tone, curly hair",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 263,
+    "Unicode": "U+1F469 U+1F3FD U+200D U+1F9B1",
+    "Browser Image": "👩🏽‍🦱",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ woman: medium skin tone, curly hair",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 264,
+    "Unicode": "U+1F469 U+1F3FE U+200D U+1F9B1",
+    "Browser Image": "👩🏾‍🦱",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ woman: medium-dark skin tone, curly hair",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 265,
+    "Unicode": "U+1F469 U+1F3FF U+200D U+1F9B1",
+    "Browser Image": "👩🏿‍🦱",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ woman: dark skin tone, curly hair",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 266,
+    "Unicode": "U+1F469 U+1F3FB U+200D U+1F9B3",
+    "Browser Image": "👩🏻‍🦳",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ woman: light skin tone, white hair",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 267,
+    "Unicode": "U+1F469 U+1F3FC U+200D U+1F9B3",
+    "Browser Image": "👩🏼‍🦳",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ woman: medium-light skin tone, white hair",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 268,
+    "Unicode": "U+1F469 U+1F3FD U+200D U+1F9B3",
+    "Browser Image": "👩🏽‍🦳",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ woman: medium skin tone, white hair",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 269,
+    "Unicode": "U+1F469 U+1F3FE U+200D U+1F9B3",
+    "Browser Image": "👩🏾‍🦳",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ woman: medium-dark skin tone, white hair",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 270,
+    "Unicode": "U+1F469 U+1F3FF U+200D U+1F9B3",
+    "Browser Image": "👩🏿‍🦳",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ woman: dark skin tone, white hair",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 271,
+    "Unicode": "U+1F469 U+1F3FB U+200D U+1F9B2",
+    "Browser Image": "👩🏻‍🦲",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ woman: light skin tone, bald",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 272,
+    "Unicode": "U+1F469 U+1F3FC U+200D U+1F9B2",
+    "Browser Image": "👩🏼‍🦲",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ woman: medium-light skin tone, bald",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 273,
+    "Unicode": "U+1F469 U+1F3FD U+200D U+1F9B2",
+    "Browser Image": "👩🏽‍🦲",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ woman: medium skin tone, bald",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 274,
+    "Unicode": "U+1F469 U+1F3FE U+200D U+1F9B2",
+    "Browser Image": "👩🏾‍🦲",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ woman: medium-dark skin tone, bald",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 275,
+    "Unicode": "U+1F469 U+1F3FF U+200D U+1F9B2",
+    "Browser Image": "👩🏿‍🦲",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ woman: dark skin tone, bald",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 716,
+    "Unicode": "U+1F9B8 U+1F3FB",
+    "Browser Image": "🦸🏻",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ superhero: light skin tone",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": 717,
+    "Unicode": "U+1F9B8 U+1F3FC",
+    "Browser Image": "🦸🏼",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ superhero: medium-light skin tone",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": 718,
+    "Unicode": "U+1F9B8 U+1F3FD",
+    "Browser Image": "🦸🏽",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ superhero: medium skin tone",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": 719,
+    "Unicode": "U+1F9B8 U+1F3FE",
+    "Browser Image": "🦸🏾",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ superhero: medium-dark skin tone",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": 729,
+    "Unicode": "U+1F9B8 U+1F3FF",
+    "Browser Image": "🦸🏿",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ superhero: dark skin tone",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": 721,
+    "Unicode": "U+1F9B8 U+1F3FB U+200D U+2642 U+FE0F",
+    "Browser Image": "🦸🏻‍♂️",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ man superhero: light skin tone",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": "",
+    "Unicode": "1F9B8 1F3FB 200D 2642",
+    "Browser Image": "🦸🏻‍♂️",
+    "Apple \n(iOS 12)": "",
+    "Google Pixel\n(Android 9.0 OS)": "",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "",
+    "CLDR Short Name": "⊛ man superhero: light skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 722,
+    "Unicode": "U+1F9B8 U+1F3FC U+200D U+2642 U+FE0F",
+    "Browser Image": "🦸🏼‍♂️",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ man superhero: medium-light skin tone",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": "",
+    "Unicode": "1F9B8 1F3FC 200D 2642",
+    "Browser Image": "🦸🏼‍♂️",
+    "Apple \n(iOS 12)": "",
+    "Google Pixel\n(Android 9.0 OS)": "",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "",
+    "CLDR Short Name": "⊛ man superhero: medium-light skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 723,
+    "Unicode": "U+1F9B8 U+1F3FD U+200D U+2642 U+FE0F",
+    "Browser Image": "🦸🏽‍♂️",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ man superhero: medium skin tone",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": "",
+    "Unicode": "1F9B8 1F3FD 200D 2642",
+    "Browser Image": "🦸🏽‍♂️",
+    "Apple \n(iOS 12)": "",
+    "Google Pixel\n(Android 9.0 OS)": "",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "",
+    "CLDR Short Name": "⊛ man superhero: medium skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 724,
+    "Unicode": "U+1F9B8 U+1F3FE U+200D U+2642 U+FE0F",
+    "Browser Image": "🦸🏾‍♂️",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ man superhero: medium-dark skin tone",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": "",
+    "Unicode": "1F9B8 1F3FE 200D 2642",
+    "Browser Image": "🦸🏾‍♂️",
+    "Apple \n(iOS 12)": "",
+    "Google Pixel\n(Android 9.0 OS)": "",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "",
+    "CLDR Short Name": "⊛ man superhero: medium-dark skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 725,
+    "Unicode": "U+1F9B8 U+1F3FF U+200D U+2642 U+FE0F",
+    "Browser Image": "🦸🏿‍♂️",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ man superhero: dark skin tone",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": "",
+    "Unicode": "1F9B8 1F3FF 200D 2642",
+    "Browser Image": "🦸🏿‍♂️",
+    "Apple \n(iOS 12)": "",
+    "Google Pixel\n(Android 9.0 OS)": "",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "",
+    "CLDR Short Name": "⊛ man superhero: dark skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 726,
+    "Unicode": "U+1F9B8 U+1F3FB U+200D U+2640 U+FE0F",
+    "Browser Image": "🦸🏻‍♀️",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ woman superhero: light skin tone",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": "",
+    "Unicode": "1F9B8 1F3FB 200D 2640",
+    "Browser Image": "🦸🏻‍♀️",
+    "Apple \n(iOS 12)": "",
+    "Google Pixel\n(Android 9.0 OS)": "",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "",
+    "CLDR Short Name": "⊛ woman superhero: light skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 727,
+    "Unicode": "U+1F9B8 U+1F3FC U+200D U+2640 U+FE0F",
+    "Browser Image": "🦸🏼‍♀️",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ woman superhero: medium-light skin tone",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": "",
+    "Unicode": "1F9B8 1F3FC 200D 2640",
+    "Browser Image": "🦸🏼‍♀️",
+    "Apple \n(iOS 12)": "",
+    "Google Pixel\n(Android 9.0 OS)": "",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "",
+    "CLDR Short Name": "⊛ woman superhero: medium-light skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 728,
+    "Unicode": "U+1F9B8 U+1F3FD U+200D U+2640 U+FE0F",
+    "Browser Image": "🦸🏽‍♀️",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ woman superhero: medium skin tone",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": "",
+    "Unicode": "1F9B8 1F3FD 200D 2640",
+    "Browser Image": "🦸🏽‍♀️",
+    "Apple \n(iOS 12)": "",
+    "Google Pixel\n(Android 9.0 OS)": "",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "",
+    "CLDR Short Name": "⊛ woman superhero: medium skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 729,
+    "Unicode": "U+1F9B8 U+1F3FE U+200D U+2640 U+FE0F",
+    "Browser Image": "🦸🏾‍♀️",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ woman superhero: medium-dark skin tone",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": "",
+    "Unicode": "1F9B8 1F3FE 200D 2640",
+    "Browser Image": "🦸🏾‍♀️",
+    "Apple \n(iOS 12)": "",
+    "Google Pixel\n(Android 9.0 OS)": "",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "",
+    "CLDR Short Name": "⊛ woman superhero: medium-dark skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 730,
+    "Unicode": "U+1F9B8 U+1F3FF U+200D U+2640 U+FE0F",
+    "Browser Image": "🦸🏿‍♀️",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ woman superhero: dark skin tone",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": "",
+    "Unicode": "1F9B8 1F3FF 200D 2640",
+    "Browser Image": "🦸🏿‍♀️",
+    "Apple \n(iOS 12)": "",
+    "Google Pixel\n(Android 9.0 OS)": "",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "",
+    "CLDR Short Name": "⊛ woman superhero: dark skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 731,
+    "Unicode": "U+1F9B9 U+1F3FB",
+    "Browser Image": "🦹🏻",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ supervillain: light skin tone",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": 732,
+    "Unicode": "U+1F9B9 U+1F3FC",
+    "Browser Image": "🦹🏼",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ supervillain: medium-light skin tone",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": 733,
+    "Unicode": "U+1F9B9 U+1F3FD",
+    "Browser Image": "🦹🏽",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ supervillain: medium skin tone",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": 734,
+    "Unicode": "U+1F9B9 U+1F3FE",
+    "Browser Image": "🦹🏾",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ supervillain: medium-dark skin tone",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": 735,
+    "Unicode": "U+1F9B9 U+1F3FF",
+    "Browser Image": "🦹🏿",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ supervillain: dark skin tone",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": 736,
+    "Unicode": "U+1F9B9 U+1F3FB U+200D U+2642 U+FE0F",
+    "Browser Image": "🦹🏻‍♂️",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ man supervillain: light skin tone",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": "",
+    "Unicode": "1F9B9 1F3FB 200D 2642",
+    "Browser Image": "🦹🏻‍♂️",
+    "Apple \n(iOS 12)": "",
+    "Google Pixel\n(Android 9.0 OS)": "",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "",
+    "CLDR Short Name": "⊛ man supervillain: light skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 737,
+    "Unicode": "U+1F9B9 U+1F3FC U+200D U+2642 U+FE0F",
+    "Browser Image": "🦹🏼‍♂️",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ man supervillain: medium-light skin tone",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": "",
+    "Unicode": "1F9B9 1F3FC 200D 2642",
+    "Browser Image": "🦹🏼‍♂️",
+    "Apple \n(iOS 12)": "",
+    "Google Pixel\n(Android 9.0 OS)": "",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "",
+    "CLDR Short Name": "⊛ man supervillain: medium-light skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 738,
+    "Unicode": "U+1F9B9 U+1F3FD U+200D U+2642 U+FE0F",
+    "Browser Image": "🦹🏽‍♂️",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ man supervillain: medium skin tone",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": "",
+    "Unicode": "1F9B9 1F3FD 200D 2642",
+    "Browser Image": "🦹🏽‍♂️",
+    "Apple \n(iOS 12)": "",
+    "Google Pixel\n(Android 9.0 OS)": "",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "",
+    "CLDR Short Name": "⊛ man supervillain: medium skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 739,
+    "Unicode": "U+1F9B9 U+1F3FE U+200D U+2642 U+FE0F",
+    "Browser Image": "🦹🏾‍♂️",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ man supervillain: medium-dark skin tone",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": "",
+    "Unicode": "1F9B9 1F3FE 200D 2642",
+    "Browser Image": "🦹🏾‍♂️",
+    "Apple \n(iOS 12)": "",
+    "Google Pixel\n(Android 9.0 OS)": "",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "",
+    "CLDR Short Name": "⊛ man supervillain: medium-dark skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 740,
+    "Unicode": "U+1F9B9 U+1F3FF U+200D U+2642 U+FE0F",
+    "Browser Image": "🦹🏿‍♂️",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ man supervillain: dark skin tone",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": "",
+    "Unicode": "1F9B9 1F3FF 200D 2642",
+    "Browser Image": "🦹🏿‍♂️",
+    "Apple \n(iOS 12)": "",
+    "Google Pixel\n(Android 9.0 OS)": "",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "",
+    "CLDR Short Name": "⊛ man supervillain: dark skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 741,
+    "Unicode": "U+1F9B9 U+1F3FB U+200D U+2640 U+FE0F",
+    "Browser Image": "🦹🏻‍♀️",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ woman supervillain: light skin tone",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": "",
+    "Unicode": "1F9B9 1F3FB 200D 2640",
+    "Browser Image": "🦹🏻‍♀️",
+    "Apple \n(iOS 12)": "",
+    "Google Pixel\n(Android 9.0 OS)": "",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "",
+    "CLDR Short Name": "⊛ woman supervillain: light skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 742,
+    "Unicode": "U+1F9B9 U+1F3FC U+200D U+2640 U+FE0F",
+    "Browser Image": "🦹🏼‍♀️",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ woman supervillain: medium-light skin tone",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": "",
+    "Unicode": "1F9B9 1F3FC 200D 2640",
+    "Browser Image": "🦹🏼‍♀️",
+    "Apple \n(iOS 12)": "",
+    "Google Pixel\n(Android 9.0 OS)": "",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "",
+    "CLDR Short Name": "⊛ woman supervillain: medium-light skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 743,
+    "Unicode": "U+1F9B9 U+1F3FD U+200D U+2640 U+FE0F",
+    "Browser Image": "🦹🏽‍♀️",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ woman supervillain: medium skin tone",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": "",
+    "Unicode": "1F9B9 1F3FD 200D 2640",
+    "Browser Image": "🦹🏽‍♀️",
+    "Apple \n(iOS 12)": "",
+    "Google Pixel\n(Android 9.0 OS)": "",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "",
+    "CLDR Short Name": "⊛ woman supervillain: medium skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 744,
+    "Unicode": "U+1F9B9 U+1F3FE U+200D U+2640 U+FE0F",
+    "Browser Image": "🦹🏾‍♀️",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ woman supervillain: medium-dark skin tone",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": "",
+    "Unicode": "1F9B9 1F3FE 200D 2640",
+    "Browser Image": "🦹🏾‍♀️",
+    "Apple \n(iOS 12)": "",
+    "Google Pixel\n(Android 9.0 OS)": "",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "",
+    "CLDR Short Name": "⊛ woman supervillain: medium-dark skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": 745,
+    "Unicode": "U+1F9B9 U+1F3FF U+200D U+2640 U+FE0F",
+    "Browser Image": "🦹🏿‍♀️",
+    "Apple \n(iOS 12)": "Y",
+    "Google Pixel\n(Android 9.0 OS)": "Y",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "N",
+    "CLDR Short Name": "⊛ woman supervillain: dark skin tone",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": "",
+    "Unicode": "1F9B9 1F3FF 200D 2640",
+    "Browser Image": "🦹🏿‍♀️",
+    "Apple \n(iOS 12)": "",
+    "Google Pixel\n(Android 9.0 OS)": "",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "",
+    "CLDR Short Name": "⊛ woman supervillain: dark skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F93C 1F3FB",
+    "Browser Image": "🤼🏻",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "people wrestling: light skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F93C 1F3FC",
+    "Browser Image": "🤼🏼",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "people wrestling: medium-light skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F93C 1F3FD",
+    "Browser Image": "🤼🏽",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "people wrestling: medium skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F93C 1F3FE",
+    "Browser Image": "🤼🏾",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "people wrestling: medium-dark skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F93C 1F3FF",
+    "Browser Image": "🤼🏿",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "people wrestling: dark skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F93C 1F3FB 200D 2642 FE0F",
+    "Browser Image": "🤼🏻‍♂️",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "men wrestling: light skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F93C 1F3FB 200D 2642",
+    "Browser Image": "🤼🏻‍♂️",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "men wrestling: light skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F93C 1F3FC 200D 2642 FE0F",
+    "Browser Image": "🤼🏼‍♂️",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "men wrestling: medium-light skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F93C 1F3FC 200D 2642",
+    "Browser Image": "🤼🏼‍♂️",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "men wrestling: medium-light skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F93C 1F3FD 200D 2642 FE0F",
+    "Browser Image": "🤼🏽‍♂️",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "men wrestling: medium skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F93C 1F3FD 200D 2642",
+    "Browser Image": "🤼🏽‍♂️",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "men wrestling: medium skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F93C 1F3FE 200D 2642 FE0F",
+    "Browser Image": "🤼🏾‍♂️",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "men wrestling: medium-dark skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F93C 1F3FE 200D 2642",
+    "Browser Image": "🤼🏾‍♂️",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "men wrestling: medium-dark skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F93C 1F3FF 200D 2642 FE0F",
+    "Browser Image": "🤼🏿‍♂️",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "men wrestling: dark skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F93C 1F3FF 200D 2642",
+    "Browser Image": "🤼🏿‍♂️",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "men wrestling: dark skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F93C 1F3FB 200D 2640 FE0F",
+    "Browser Image": "🤼🏻‍♀️",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "women wrestling: light skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F93C 1F3FB 200D 2640",
+    "Browser Image": "🤼🏻‍♀️",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "women wrestling: light skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F93C 1F3FC 200D 2640 FE0F",
+    "Browser Image": "🤼🏼‍♀️",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "women wrestling: medium-light skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F93C 1F3FC 200D 2640",
+    "Browser Image": "🤼🏼‍♀️",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "women wrestling: medium-light skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F93C 1F3FD 200D 2640 FE0F",
+    "Browser Image": "🤼🏽‍♀️",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "women wrestling: medium skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F93C 1F3FD 200D 2640",
+    "Browser Image": "🤼🏽‍♀️",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "women wrestling: medium skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F93C 1F3FE 200D 2640 FE0F",
+    "Browser Image": "🤼🏾‍♀️",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "women wrestling: medium-dark skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F93C 1F3FE 200D 2640",
+    "Browser Image": "🤼🏾‍♀️",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "women wrestling: medium-dark skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F93C 1F3FF 200D 2640 FE0F",
+    "Browser Image": "🤼🏿‍♀️",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "women wrestling: dark skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F93C 1F3FF 200D 2640",
+    "Browser Image": "🤼🏿‍♀️",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "women wrestling: dark skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F46F 1F3FB 200D 2642 FE0F",
+    "Browser Image": "👯🏻‍♂️",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "men with bunny ears: light skin tone",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": "",
+    "Unicode": "1F46F 1F3FB 200D 2642",
+    "Browser Image": "👯🏻‍♂️",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "men with bunny ears: light skin tone",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": "",
+    "Unicode": "1F46F 1F3FC 200D 2642 FE0F",
+    "Browser Image": "👯🏼‍♂️",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "men with bunny ears: medium-light skin tone",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": "",
+    "Unicode": "1F46F 1F3FC 200D 2642",
+    "Browser Image": "👯🏼‍♂️",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "men with bunny ears: medium-light skin tone",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": "",
+    "Unicode": "1F46F 1F3FD 200D 2642 FE0F",
+    "Browser Image": "👯🏽‍♂️",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "men with bunny ears: medium skin tone",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": "",
+    "Unicode": "1F46F 1F3FD 200D 2642",
+    "Browser Image": "👯🏽‍♂️",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "men with bunny ears: medium skin tone",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": "",
+    "Unicode": "1F46F 1F3FE 200D 2642 FE0F",
+    "Browser Image": "👯🏾‍♂️",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "men with bunny ears: medium-dark skin tone",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": "",
+    "Unicode": "1F46F 1F3FE 200D 2642",
+    "Browser Image": "👯🏾‍♂️",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "men with bunny ears: medium-dark skin tone",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": "",
+    "Unicode": "1F46F 1F3FF 200D 2642 FE0F",
+    "Browser Image": "👯🏿‍♂",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "men with bunny ears: dark skin tone",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": "",
+    "Unicode": "1F46F 1F3FF 200D 2642",
+    "Browser Image": "👯🏿‍♂",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "men with bunny ears: dark skin tone",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": "",
+    "Unicode": "1F46F 1F3FB 200D 2640 FE0F",
+    "Browser Image": "👯🏻‍♀️",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "women with bunny ears: light skin tone",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": "",
+    "Unicode": "1F46F 1F3FB 200D 2640",
+    "Browser Image": "👯🏻‍♀️",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "women with bunny ears: light skin tone",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": "",
+    "Unicode": "1F46F 1F3FC 200D 2640 FE0F",
+    "Browser Image": "👯🏼‍♀️",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "women with bunny ears: medium-light skin tone",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": "",
+    "Unicode": "1F46F 1F3FC 200D 2640",
+    "Browser Image": "👯🏼‍♀️",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "women with bunny ears: medium-light skin tone",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": "",
+    "Unicode": "1F46F 1F3FD 200D 2640 FE0F",
+    "Browser Image": "👯🏽‍♀️",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "women with bunny ears: medium skin tone",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": "",
+    "Unicode": "1F46F 1F3FD 200D 2640",
+    "Browser Image": "👯🏽‍♀️",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "women with bunny ears: medium skin tone",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": "",
+    "Unicode": "1F46F 1F3FE 200D 2640 FE0F",
+    "Browser Image": "👯🏾‍♀️",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "women with bunny ears: medium-dark skin tone",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": "",
+    "Unicode": "1F46F 1F3FE 200D 2640",
+    "Browser Image": "👯🏾‍♀️",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "women with bunny ears: medium-dark skin tone",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": "",
+    "Unicode": "1F46F 1F3FF 200D 2640 FE0F",
+    "Browser Image": "👯🏿‍♀️",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "women with bunny ears: dark skin tone",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": "",
+    "Unicode": "1F46F 1F3FF 200D 2640",
+    "Browser Image": "👯🏿‍♀️",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "women with bunny ears: dark skin tone",
+    "Emoji Category": "Entertainment"
+  },
+  {
+    "Number": "",
+    "Unicode": "1F48F 1F3FB",
+    "Browser Image": "💏🏻",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "kiss: light skin tone",
+    "Emoji Category": "Random"
+  },
+  {
+    "Number": "",
+    "Unicode": "1F48F 1F3FC",
+    "Browser Image": "💏🏼",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "kiss: medium-light skin tone",
+    "Emoji Category": "Random"
+  },
+  {
+    "Number": "",
+    "Unicode": "1F48F 1F3FD",
+    "Browser Image": "💏🏽",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "kiss: medium skin tone",
+    "Emoji Category": "Random"
+  },
+  {
+    "Number": "",
+    "Unicode": "1F48F 1F3FE",
+    "Browser Image": "💏🏾",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "kiss: medium-dark skin tone",
+    "Emoji Category": "Random"
+  },
+  {
+    "Number": "",
+    "Unicode": "1F48F 1F3FF",
+    "Browser Image": "💏🏿",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "kiss: dark skin tone",
+    "Emoji Category": "Random"
+  },
+  {
+    "Number": "",
+    "Unicode": "1F491 1F3FB",
+    "Browser Image": "💑🏻",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "couple with heart: light skin tone",
+    "Emoji Category": "Random"
+  },
+  {
+    "Number": "",
+    "Unicode": "1F491 1F3FC",
+    "Browser Image": "💑🏼",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "couple with heart: medium-light skin tone",
+    "Emoji Category": "Random"
+  },
+  {
+    "Number": "",
+    "Unicode": "1F491 1F3FD",
+    "Browser Image": "💑🏽",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "couple with heart: medium skin tone",
+    "Emoji Category": "Random"
+  },
+  {
+    "Number": "",
+    "Unicode": "1F491 1F3FE",
+    "Browser Image": "💑🏾",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "couple with heart: medium-dark skin tone",
+    "Emoji Category": "Random"
+  },
+  {
+    "Number": "",
+    "Unicode": "1F491 1F3FF",
+    "Browser Image": "💑🏿",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "couple with heart: dark skin tone",
+    "Emoji Category": "Random"
+  },
+  {
+    "Number": "",
+    "Unicode": "1F46A 1F3FB",
+    "Browser Image": "👪🏻",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "family: light skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F46A 1F3FC",
+    "Browser Image": "👪🏼",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "family: medium-light skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F46A 1F3FD",
+    "Browser Image": "👪🏽",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "family: medium skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F46A 1F3FE",
+    "Browser Image": "👪🏾",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "family: medium-dark skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F46A 1F3FF",
+    "Browser Image": "👪🏿",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "family: dark skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "U+263B",
+    "Browser Image": "☻",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "black smiling face",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F46D 1F3FB",
+    "Browser Image": "👭🏻",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "women holding hands: light skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F469 1F3FC 200D 1F91D 200D 1F469 1F3FB",
+    "Browser Image": "👩🏼‍🤝‍👩🏻",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "women holding hands: medium-light skin tone, light skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F46D 1F3FC",
+    "Browser Image": "👭🏼",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "women holding hands: medium-light skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F469 1F3FD 200D 1F91D 200D 1F469 1F3FB",
+    "Browser Image": "👩🏽‍🤝‍👩🏻",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "women holding hands: medium skin tone, light skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F469 1F3FD 200D 1F91D 200D 1F469 1F3FC",
+    "Browser Image": "👩🏽‍🤝‍👩🏼",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "women holding hands: medium skin tone, medium-light skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F46D 1F3FD",
+    "Browser Image": "👭🏽",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "women holding hands: medium skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F469 1F3FE 200D 1F91D 200D 1F469 1F3FB",
+    "Browser Image": "👩🏾‍🤝‍👩🏻",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "women holding hands: medium-dark skin tone, light skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F469 1F3FE 200D 1F91D 200D 1F469 1F3FC",
+    "Browser Image": "👩🏾‍🤝‍👩🏼",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "women holding hands: medium-dark skin tone, medium-light skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F469 1F3FE 200D 1F91D 200D 1F469 1F3FD",
+    "Browser Image": "👩🏾‍🤝‍👩🏽",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "women holding hands: medium-dark skin tone, medium skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F46D 1F3FE",
+    "Browser Image": "👭🏾",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "women holding hands: medium-dark skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F469 1F3FF 200D 1F91D 200D 1F469 1F3FB",
+    "Browser Image": "👩🏿‍🤝‍👩🏻",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "women holding hands: dark skin tone, light skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F469 1F3FF 200D 1F91D 200D 1F469 1F3FC",
+    "Browser Image": "👩🏿‍🤝‍👩🏼",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "women holding hands: dark skin tone, medium-light skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F469 1F3FF 200D 1F91D 200D 1F469 1F3FD",
+    "Browser Image": "👩🏿‍🤝‍👩🏽",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "women holding hands: dark skin tone, medium skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F469 1F3FF 200D 1F91D 200D 1F469 1F3FE",
+    "Browser Image": "👩🏿‍🤝‍👩🏾",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "women holding hands: dark skin tone, medium-dark skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F46D 1F3FF",
+    "Browser Image": "👭🏿",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "women holding hands: dark skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F46B 1F3FB",
+    "Browser Image": "👫🏻",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "woman and man holding hands: light skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F469 1F3FB 200D 1F91D 200D 1F468 1F3FC",
+    "Browser Image": "👩🏻‍🤝‍👨🏼",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "woman and man holding hands: light skin tone, medium-light skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F469 1F3FB 200D 1F91D 200D 1F468 1F3FD",
+    "Browser Image": "👩🏻‍🤝‍👨🏽",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "woman and man holding hands: light skin tone, medium skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F469 1F3FB 200D 1F91D 200D 1F468 1F3FE",
+    "Browser Image": "👩🏻‍🤝‍👨🏾",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "woman and man holding hands: light skin tone, medium-dark skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F469 1F3FB 200D 1F91D 200D 1F468 1F3FF",
+    "Browser Image": "👩🏻‍🤝‍👨🏿",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "woman and man holding hands: light skin tone, dark skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F469 1F3FC 200D 1F91D 200D 1F468 1F3FB",
+    "Browser Image": "👩🏼‍🤝‍👨🏻",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "woman and man holding hands: medium-light skin tone, light skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F46B 1F3FC",
+    "Browser Image": "👫🏼",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "woman and man holding hands: medium-light skin tone, light skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F469 1F3FC 200D 1F91D 200D 1F468 1F3FD",
+    "Browser Image": "👩🏼‍🤝‍👨🏽",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "woman and man holding hands: medium-light skin tone, medium skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F469 1F3FC 200D 1F91D 200D 1F468 1F3FE",
+    "Browser Image": "👩🏼‍🤝‍👨🏾",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "woman and man holding hands: medium-light skin tone, medium-dark skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F469 1F3FC 200D 1F91D 200D 1F468 1F3FF",
+    "Browser Image": "👩🏼‍🤝‍👨🏿",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "woman and man holding hands: medium-light skin tone, dark skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F469 1F3FD 200D 1F91D 200D 1F468 1F3FB",
+    "Browser Image": "👩🏽‍🤝‍👨🏻",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "woman and man holding hands: medium skin tone, light skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F469 1F3FD 200D 1F91D 200D 1F468 1F3FC",
+    "Browser Image": "👩🏽‍🤝‍👨🏼",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "woman and man holding hands: medium skin tone, medium-light skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F46B 1F3FD",
+    "Browser Image": "👫🏽",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "woman and man holding hands: medium skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F469 1F3FD 200D 1F91D 200D 1F468 1F3FE",
+    "Browser Image": "👩🏽‍🤝‍👨🏾",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "woman and man holding hands: medium skin tone, medium-dark skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F469 1F3FD 200D 1F91D 200D 1F468 1F3FF",
+    "Browser Image": "👩🏽‍🤝‍👨🏿",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "woman and man holding hands: medium skin tone, dark skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F469 1F3FE 200D 1F91D 200D 1F468 1F3FB",
+    "Browser Image": "👩🏾‍🤝‍👨🏻",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "woman and man holding hands: medium-dark skin tone, light skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F469 1F3FE 200D 1F91D 200D 1F468 1F3FC",
+    "Browser Image": "👩🏾‍🤝‍👨🏼",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "woman and man holding hands: medium-dark skin tone, medium-light skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F469 1F3FE 200D 1F91D 200D 1F468 1F3FD",
+    "Browser Image": "👩🏾‍🤝‍👨🏽",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "woman and man holding hands: medium-dark skin tone, medium skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F46B 1F3FE",
+    "Browser Image": "👫🏾",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "woman and man holding hands: medium-dark skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F469 1F3FD 200D 1F91D 200D 1F468 1F3FE",
+    "Browser Image": "👩🏾‍🤝‍👨🏿",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "woman and man holding hands: medium skin tone, medium-dark skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F469 1F3FD 200D 1F91D 200D 1F468 1F3FF",
+    "Browser Image": "👩🏿‍🤝‍👨🏻",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "woman and man holding hands: medium skin tone, dark skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F469 1F3FE 200D 1F91D 200D 1F468 1F3FB",
+    "Browser Image": "👩🏿‍🤝‍👨🏼",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "woman and man holding hands: medium-dark skin tone, light skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F469 1F3FE 200D 1F91D 200D 1F468 1F3FC",
+    "Browser Image": "👩🏿‍🤝‍👨🏽",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "woman and man holding hands: medium-dark skin tone, medium-light skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F469 1F3FE 200D 1F91D 200D 1F468 1F3FD",
+    "Browser Image": "👩🏿‍🤝‍👨🏾",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "woman and man holding hands: medium-dark skin tone, medium skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F46B 1F3FF",
+    "Browser Image": "👫🏿",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "woman and man holding hands: dark skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F46C 1F3FB",
+    "Browser Image": "👬🏻",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "men holding hands: light skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F468 1F3FC 200D 1F91D 200D 1F468 1F3FB",
+    "Browser Image": "👨🏼‍🤝‍👨🏻",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "men holding hands: medium-light skin tone, light skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F46C 1F3FC",
+    "Browser Image": "👬🏼",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "men holding hands: medium-light skin tone, light skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F468 1F3FD 200D 1F91D 200D 1F468 1F3FB",
+    "Browser Image": "👨🏽‍🤝‍👨🏻",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "men holding hands: medium skin tone, light skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F468 1F3FD 200D 1F91D 200D 1F468 1F3FC",
+    "Browser Image": "👨🏽‍🤝‍👨🏼",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "men holding hands: medium skin tone, medium-light skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F46C 1F3FD",
+    "Browser Image": "👬🏽",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "men holding hands: medium skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F468 1F3FE 200D 1F91D 200D 1F468 1F3FB",
+    "Browser Image": "👨🏾‍🤝‍👨🏻",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "men holding hands: medium-dark skin tone, light skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F468 1F3FE 200D 1F91D 200D 1F468 1F3FC",
+    "Browser Image": "👨🏾‍🤝‍👨🏼",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "men holding hands: medium-dark skin tone, medium-light skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F468 1F3FE 200D 1F91D 200D 1F468 1F3FD",
+    "Browser Image": "👨🏾‍🤝‍👨🏽",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "men holding hands: medium-dark skin tone, medium skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F46C 1F3FE",
+    "Browser Image": "👬🏾",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "men holding hands: medium-dark skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F468 1F3FF 200D 1F91D 200D 1F468 1F3FB",
+    "Browser Image": "👨🏿‍🤝‍👨🏻",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "men holding hands: dark skin tone, light skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F468 1F3FF 200D 1F91D 200D 1F468 1F3FC",
+    "Browser Image": "👨🏿‍🤝‍👨🏼",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "men holding hands: dark skin tone, medium-light skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F468 1F3FF 200D 1F91D 200D 1F468 1F3FD",
+    "Browser Image": "👨🏿‍🤝‍👨🏽",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "men holding hands: dark skin tone, medium skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F468 1F3FF 200D 1F91D 200D 1F468 1F3FE",
+    "Browser Image": "👨🏿‍🤝‍👨🏾",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "men holding hands: dark skin tone, medium-dark skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F46C 1F3FF",
+    "Browser Image": "👬🏿",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "men holding hands: dark skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F91D 1F3FB",
+    "Browser Image": "🤝🏻",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "handshake: light skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F91D 1F3FC",
+    "Browser Image": "🤝🏼",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "handshake: medium-light skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F91D 1F3FD",
+    "Browser Image": "🤝🏽",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "handshake: medium skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F91D 1F3FE",
+    "Browser Image": "🤝🏾",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "handshake: medium-dark skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "1F91D 1F3FF",
+    "Browser Image": "🤝🏿",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "handshake: dark skin tone",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": 2698,
+    "Browser Image": "⚘",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "Flower",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "26FC",
+    "Browser Image": "⛼",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "headstone greveyard",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": 2680,
+    "Browser Image": "⚀",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "die face-1",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": 2681,
+    "Browser Image": "⚁",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "die face-2",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": 2682,
+    "Browser Image": "⚂",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "die face-3",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": 2683,
+    "Browser Image": "⚃",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "die face-4",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": 2684,
+    "Browser Image": "⚄",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "die face-5",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": 2685,
+    "Browser Image": "⚅",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "die face-6",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "26FE",
+    "Browser Image": "⛾",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "cup on black square",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "26DF",
+    "Browser Image": "⛟",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "black truck",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": 2687,
+    "Browser Image": "⚇",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "white circle with two dots",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": 2688,
+    "Browser Image": "⚈",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "black circle with white dot right",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": 2689,
+    "Browser Image": "⚉",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "black circle with two white dots",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "26DE",
+    "Browser Image": "⛞",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "Falling Diagonal In White Circle In Black Square",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "26CB",
+    "Browser Image": "⛋",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "White Diamond In Square",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": "26DE",
+    "Browser Image": "⛞",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "Falling Diagonal In White Circle In Black Square",
+    "Emoji Category": ""
+  },
+  {
+    "Number": "",
+    "Unicode": 2686,
+    "Browser Image": "⚆",
+    "Apple \n(iOS 12)": "N",
+    "Google Pixel\n(Android 9.0 OS)": "N",
+    "Android 8.0\n(Samsung \nGalaxy S9)": "Y",
+    "CLDR Short Name": "White Circle with Dot Right",
+    "Emoji Category": ""
+  }
+]
